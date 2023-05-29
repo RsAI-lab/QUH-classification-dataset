@@ -11,6 +11,7 @@ The QUH-Qingyun dataset: it has areas obscured by building shadows, including cl
 ![image](https://github.com/RsAI-lab/QUH-classification-dataset/assets/113403685/34707467-2a25-4760-a31d-3c73bfa77b6e)
 
 The QUH-Pingan dataset: it has a relatively regular distribution of land cover, but there are large differences in size: Seawater, Road at large scales, Trees, Floating pier, Brick houses, Steel houses at medium scales, and Ship, Car at small scales, which are the most difficult to identify. This dataset can be used to assess the ability of classification methods to portray targets at different scales.
+
 ![image](https://github.com/RsAI-lab/QUH-classification-dataset/assets/113403685/18cae831-b639-4785-bcab-818f19083d6d)
 ![image](https://github.com/RsAI-lab/QUH-classification-dataset/assets/113403685/10918670-60ae-47eb-a0aa-7cfe19c3167b)
 
