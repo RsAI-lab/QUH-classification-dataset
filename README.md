@@ -16,5 +16,6 @@ The QUH-Pingan dataset: it has a relatively regular distribution of land cover, 
 ![image](https://github.com/RsAI-lab/QUH-classification-dataset/assets/113403685/10918670-60ae-47eb-a0aa-7cfe19c3167b)
 
 # Download
-Matlab format: https://pan.baidu.com/s/1uWKr2bcetF53_OLd08rovg (extraction code: 1234)
+BaiduCloud: https://pan.baidu.com/s/1uWKr2bcetF53_OLd08rovg (extraction code: 1234)
+
 Zenodo: https://zenodo.org/record/8223066
